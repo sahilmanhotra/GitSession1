@@ -1,2 +1,2 @@
 This is a second file
-Kill the cockroach.
+Kill the cockroach. This is a new addition. This should kill the bug.
